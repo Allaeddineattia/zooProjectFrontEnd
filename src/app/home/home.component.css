@@ -1,0 +1,23 @@
+form{
+	margin:0;
+    color:#6a6f8c;
+    background-color: antiquewhite;
+    background-size: cover;
+    font:600 2rem/2rem 'Open Sans',sans-serif;
+    position: relative;
+    display: block;
+
+}
+form input{
+    width: 80%;
+    margin-bottom: 3%;
+    text-align: center;
+    display: block;
+    margin-left: 10%;
+}
+form button{
+    display: block;
+    margin-right: 5px;
+    width: 40%;
+    margin-left: 30%;
+}
